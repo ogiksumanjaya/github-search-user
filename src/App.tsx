@@ -1,5 +1,4 @@
 import { Suspense, lazy } from 'react'
-import './App.css'
 import { Route, Routes } from 'react-router-dom'
 import Layout from './components/organisms/Layout'
 import PrivateRoute from './utils/PrivateRoute'
